@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Pratice.SignIn"/>
+      <class name="Pratice.Landing_Page_Createacc_Link"/>
+      <class name="Pratice.Magento"/>
+      <class name="Pratice.Landingpage"/>
+      <class name="Pratice.Create_New_Account_Link"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
